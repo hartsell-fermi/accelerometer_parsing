@@ -1,0 +1,3 @@
+endaq
+hdf5storage
+numpy
